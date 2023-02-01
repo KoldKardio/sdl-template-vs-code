@@ -4,6 +4,7 @@
 const int WIDTH = 800, HEIGHT = 600;
 
 // run command "mingw32-make" or "make" to compile the src
+// to directly run the main.exe file... use command "./main"
 int main(int argc, char *argv[])
 {
     SDL_Init( SDL_INIT_EVERYTHING );
